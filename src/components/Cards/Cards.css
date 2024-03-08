@@ -1,0 +1,31 @@
+.card {
+  margin-right: auto !important;
+  margin-left: auto !important;
+  width: 25rem !important;
+  background-color: #d0cbd6 !important;
+}
+
+.card:hover {
+  border: 2px solid #263474 !important;
+}
+
+.card-title {
+  font-size: 18px !important;
+}
+
+.card-text {
+  font-size: 18px !important;
+}
+
+.card-text > sup {
+  font-size: 16px;
+}
+
+.card-text > span {
+  color: #263474 !important;
+}
+/* @media (max-width: 662px) {
+  .shoe {
+    flex-direction: column;
+  }
+} */

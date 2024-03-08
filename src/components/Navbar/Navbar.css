@@ -1,0 +1,13 @@
+.navbar {
+  background-color: #d0cbd6 !important;
+}
+  
+  .nav-item > .nav-link {
+    color: #4f429b !important;
+    margin-right: 20px !important;
+    font-size: 20px !important;
+  }
+  
+  .nav-item > .nav-link:hover {
+    color: #000 !important;
+  }
