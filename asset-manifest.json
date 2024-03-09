@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/your-repo-name/static/css/main.93803aab.css",
+    "main.js": "/your-repo-name/static/js/main.bfdacb95.js",
+    "static/media/nikebanner.jpg": "/your-repo-name/static/media/nikebanner.3dcbbabd6657a4f47538.jpg",
+    "static/media/Nike_Company.png": "/your-repo-name/static/media/Nike_Company.4b8687e430b8d97a51e0.png",
+    "index.html": "/your-repo-name/index.html",
+    "static/media/logo.svg": "/your-repo-name/static/media/logo.91ae811a5896e897b121b71b3512a5a7.svg",
+    "main.93803aab.css.map": "/your-repo-name/static/css/main.93803aab.css.map",
+    "main.bfdacb95.js.map": "/your-repo-name/static/js/main.bfdacb95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93803aab.css",
+    "static/js/main.bfdacb95.js"
+  ]
+}
