@@ -1,0 +1,59 @@
+{
+    "Nike Air Max 97": {
+        "id": 1,
+        "name": "Nike Air Max 97",
+        "image": "https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.0/w_393,c_limit/445c33de-8170-4071-b848-2df7274d3423/air-max-97-mens-shoes-LJmK45.png",
+        "price": 175,
+        "delPrice": 190
+    },
+    "Nike Pegasus Trail 3": {
+        "id": 2,
+        "name": "Nike Pegasus Trail 3",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5f8f3f55-9954-4d22-bf6f-106dc3b7dbc9/pegasus-trail-3-mens-trail-running-shoes-QPcRqp.png",
+        "price": 130,
+        "delPrice": 160
+    },
+    "Nike Air Zoom Terra Kiger 8": {
+        "id": 4,
+        "name": "Nike Air Zoom Terra Kiger 8",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c2d50294-c1ad-4141-9937-c5b42610b8d3/air-zoom-terra-kiger-8-mens-trail-running-shoes-BnbV2t.png",
+        "price": 140,
+        "delPrice": 170
+    },
+    "Nike Wildhorse 7": {
+        "id": 5,
+        "name": "Nike Wildhorse 7",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4611b1cc-89a8-4caf-bdcf-255b295a0915/wildhorse-7-mens-trail-running-shoes-rJ6R7V.png",
+        "price": 130,
+        "delPrice": 150
+    },
+    "Nike Pegasus Trail 4": {
+        "id": 6,
+        "name": "Nike Pegasus Trail 4",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1e537db2-a36d-4d8c-bb69-6109251cc465/pegasus-trail-3-mens-trail-running-shoes-QPcRqp.png",
+        "price": 130,
+        "delPrice": 160
+    },
+    "Nike Air Max 270": {
+        "id": 7,
+        "name": "Nike Air Max 270",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d088b1ce-36dd-4307-aa26-7cad6471ae6b/air-max-270-womens-shoes-Pgb94t.png",
+        "price": 170,
+        "delPrice": 200
+    },
+    "Nike Air Max 90": {
+        "id": 8,
+        "name": "Nike Air Max 90",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0990e1f2-192c-4e14-9bc1-9158a400b923/air-max-90-big-kids-shoes-d39mm6.png",
+        "price": 110,
+        "delPrice": 130
+    } ,
+   
+    "Nike ZoomX": {
+        "id": 3,
+        "name": "Nike ZoomX Invincible Run Flyknit",
+        "image": "https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.0/w_393,c_limit/b6264bef-660d-4421-8138-df52dd395c14/zoomx-invincible-run-flyknit-mens-road-running-shoes-sP2zk7.png",
+        "price": 180,
+        "delPrice": 200
+    }
+}
